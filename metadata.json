@@ -1,0 +1,5 @@
+{
+  "name": "AI Search Gateway",
+  "description": "A smart search utility to refine your queries with Gemini and search them on Perplexity AI. Paste your text, optionally refine it for clarity and effectiveness, and then launch your search in a new tab.",
+  "requestFramePermissions": []
+}

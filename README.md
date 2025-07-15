@@ -1,2 +1,14 @@
-# Right-Click-To-Perplexity
-Right Click to Perplexity is a simple Chrome extension that supercharges your Browse experience. Select any text on a webpage, right-click, and instantly search for it on Perplexity AI. Get answers and insights faster, directly from your browser's context menu.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
