@@ -1,4 +1,4 @@
-# Search on Perplexity
+# Perplextension
 
 A simple and convenient Chrome extension that allows you to search any selected text directly on Perplexity through the right-click context menu.
 
