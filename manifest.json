@@ -1,11 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Perplexity Search",
+  "name": "Perplextension",
   "version": "1.0",
   "description": "Adds a context menu item to search selected text on Perplexity AI.",
   "permissions": [
-    "contextMenus",
-    "tabs"
+    "contextMenus"
   ],
   "background": {
     "service_worker": "background.js"
