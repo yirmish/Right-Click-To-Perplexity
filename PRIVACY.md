@@ -1,8 +1,8 @@
-# Privacy Policy for Perplexity Search Extension
+# Privacy Policy for Perplextension Extension
 
-**Last updated: [Enter Today's Date]**
+**Last updated: 31/07/2025**
 
-This Privacy Policy describes how the "Perplexity Search" Chrome Extension ("the Extension") handles your information.
+This Privacy Policy describes how the "Perplextension" Chrome Extension ("the Extension") handles your information.
 
 ## No Data Collection
 
